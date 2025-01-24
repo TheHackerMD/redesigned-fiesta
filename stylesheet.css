@@ -1,0 +1,46 @@
+body {
+    background-color: cyan;
+}
+
+img {
+
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: antiquewhite;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color: yellow;
+    border-radius: 1%;
+    border-width: 10000%;
+    border-style: inset;
+    text-align: center;
+}
+
+#list {
+    border-width: 1px;
+    color: white;
+    border-style: solid;
+    border-color: aqua;
+    padding: 15px;
+    margin-left: 35%;
+    border-radius: 9px;
+}
+
+#navlinks {
+    position: fixed;
+    color: blueviolet;
+}
+
+#Footer {
+    border-color: yellow;
+    border-width: 123px;
+    border-style: groove;
+
+}
